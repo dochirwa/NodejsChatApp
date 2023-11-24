@@ -1,4 +1,4 @@
-node('appserver')
+node('Built-In Node')
 {
   def app
 
